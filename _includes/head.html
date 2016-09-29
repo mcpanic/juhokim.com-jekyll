@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="google-site-verification" content="WiDEnRZppnprsNzrmsGent3NodROYfnyNblHOjqJQC0" />
+        
+        <!-- <title>Juho Kim | HCI, learning at scale, crowdsourcing</title> -->
+
+        <title>
+          {% if page.title == "Home" %}
+            {{ site.data.global.title }} &middot; {{ site.data.global.tagline }}
+          {% else %}
+            {{ page.title }} &middot; {{ site.data.global.title }}
+          {% endif %}
+        </title>
+
+        <meta name="description" content="I'm a human-computer interaction researcher, building interactive systems powered by large-scale data from users.">
+        <meta name="author" content="Juho Kim">
+        <meta name="viewport" content="width=device-width">
+        <link rel="apple-touch-icon" sizes="57x57" href="{{ site.data.global.baseurl }}images/icons/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="{{ site.data.global.baseurl }}images/icons/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="{{ site.data.global.baseurl }}images/icons/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="{{ site.data.global.baseurl }}images/icons/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="{{ site.data.global.baseurl }}images/icons/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="{{ site.data.global.baseurl }}images/icons/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="{{ site.data.global.baseurl }}images/icons/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="{{ site.data.global.baseurl }}images/icons/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ site.data.global.baseurl }}images/icons/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.data.global.baseurl }}images/icons/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ site.data.global.baseurl }}images/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="{{ site.data.global.baseurl }}images/icons/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ site.data.global.baseurl }}images/icons/favicon-16x16.png">
+        <link rel="manifest" href="manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="m{{ site.data.global.baseurl }}images/icons/s-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
+        <link href='https://fonts.googleapis.com/css?family=Raleway:300italic,300,400italic,400,700|Abril+Fatface' rel='stylesheet' type='text/css'>
+<!--         <style>
+            body {
+                padding-top: 40px;
+                padding-bottom: 40px;
+            }
+        </style> -->
+        <link rel="stylesheet" href="{{ site.data.global.baseurl }}css/main.css">
+        <link rel="stylesheet" href="{{ site.data.global.baseurl }}css/poole.css">
+        <link rel="stylesheet" href="{{ site.data.global.baseurl }}css/syntax.css">
+        <link rel="stylesheet" href="{{ site.data.global.baseurl }}css/hyde.css">        
+        
+        <!-- <link rel="stylesheet" href="css/bootstrap-responsive.min.css"> -->
+        <!-- <link rel="stylesheet" href="css/main.css"> -->
+
+        <!-- <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script> -->
+
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+    </head>

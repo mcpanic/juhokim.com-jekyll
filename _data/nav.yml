@@ -1,0 +1,8 @@
+main:
+  - { url: '/', text: 'Home' }
+  - { url: '/publications', text: 'Publications' }
+  - { url: '/research', text: 'Research' }
+  - { url: '/teaching', text: 'Teaching' }
+  - { url: '/talks', text: 'Talks' }
+  - { url: '/resources', text: 'Resources' }
+  - { url: '/fun', text: 'Fun' }

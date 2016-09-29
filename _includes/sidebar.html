@@ -1,0 +1,37 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.data.global.baseurl }}">
+          {{ site.data.global.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.data.global.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.data.global.baseurl %} active{% endif %}" href="{{ site.data.global.baseurl }}">Home</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+
+      <!-- <a class="sidebar-nav-item" href="{{ site.data.global.github.repo }}/archive/v{{ site.data.global.version }}.zip">Download</a> -->
+      <!-- <a class="sidebar-nav-item" href="{{ site.data.global.github.repo }}">GitHub project</a> -->
+      <!-- <span class="sidebar-nav-item">Currently v{{ site.data.global.version }}</span> -->
+    </nav>
+
+    <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+  </div>
+</div>

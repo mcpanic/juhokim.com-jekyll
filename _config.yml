@@ -1,0 +1,9 @@
+# Dependencies
+#markdown:         kramdown
+#highlighter:      pygments
+
+include: ['_pages']
+
+# Permalinks
+permalink:        pretty
+

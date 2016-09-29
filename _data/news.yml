@@ -1,0 +1,232 @@
+news:
+  - { date: "Sep 16 2016", 
+    content: '      Proud to introduce my research group!<br><a href="http://kixlab.org/">KIXLAB (KAIST Interaction Lab)</a>'
+}
+  - { date: "Sep 7 2016", 
+    content: '      Paper accepted to <a href="https://cscw.acm.org/2017/">CSCW 2017</a>: <a href="http://juhokim.com/publications.html#C21">“Don’t Bother Me. I’m Socializing.”: Breakpoint-Based Smartphone Notification System</a>'
+}
+  - { date: "Sep 1 2016", 
+    content: '      Taught my first class as faculty: <a href="http://kixlab.org/courses/crowdsourcing/">CS492:Crowdsourcing</a>'
+}
+  - { date: "Jul 1 2016", 
+    content: '      First day as faculty in SoC at KAIST! Kicking off with one Ph.D. student and five summer undergrad interns.'
+}
+  - { date: "May 18 2016", 
+    content: '      Presenting my research on learnersourcing in <a href="https://courses.cs.washington.edu/courses/cse590a/16sp/">the AI Seminar</a> at UW CSE.'
+}
+  - { date: "May 17 2016", 
+    content: '      Presenting at <a href="http://mediax.stanford.edu/events/mediax2016-conference">the #mediaX2016 Conference at Stanford: "Multimedia for personal narratives: Working with the Doug Engelbart archives"</a>'
+}
+  - { date: "Apr 29 2016", 
+    content: '      <a href="http://juhokim.com/2016-summer-internship-call.html">I''m looking for research interns</a> to work with me over the summer at KAIST.'
+}
+  - { date: "Apr 26 2016", 
+    content: '      <a href="http://juhokim.com/publications.html#C19">AXIS paper</a> wins an honorable mention award at <a href="http://learningatscale.acm.org/las2016/">Learning at Scale 2016</a>'
+}
+  - { date: "Mar 21-23 2016", 
+    content: '      Presented <a href="http://juhokim.com/publications.html#P27">Organic Crowdsourcing Systems</a> at <a href="http://projects.iq.harvard.edu/teamwork-symposium">AAAI 2016 Spring Symposium: Intelligent systems for supporting distributed human teamwork.</a>'
+}
+  - { date: "Feb 29-Mar 2 2016", 
+    content: '      At <a href="https://cscw.acm.org/2016/index.php">CSCW 2016</a>. <a href="http://namwkim.org/">Nam Wook Kim</a> presented our paper <a href="http://juhokim.com/publications.html#C18">BudgetMap: Engaging Taxpayers in the Issue-Driven Classification of a Government Budget</a>'
+}
+  - { date: "Feb 9 2016", 
+    content: '      Our <a href="http://chi2016.acm.org">CHI 2016</a> <a href="http://juhokim.com/publications.html#C20">note on revising learners'' misconception</a> wins an honorable mention award.'
+}
+  - { date: "Jan 28 2016", 
+    content: '      Talk on video interaction analysis in the <a href="http://lytics.stanford.edu/">Stanford Lytics</a> seminar course (EDUC 407)'
+}
+  - { date: "Jan 27 2016", 
+    content: '      Talk on organic crowdsourcing systems in the <a href="http://web.stanford.edu/group/soal/">Stanford Social Algorithms Lab</a>'
+}
+  - { date: "Jan 15-17 2016", 
+    content: '      Organized the <a href="http://brown.stanford.edu">Brown Institute Base Camp</a> as head facilitator'
+}
+  - { date: "Dec 18 2015", 
+    content: '      I''ll serve on the CSCW 2017 PC, in the new Systems subcommittee'
+}
+  - { date: "Dec 14 2015", 
+    content: '      Conditionally accepted to <a href="http://chi2016.acm.org">CHI 2016</a>: <a href="http://juhokim.com/publications.html#C20">our note on revising learners'' misconception</a> '
+}
+  - { date: "Dec 14 2015", 
+    content: '      Conditionally accepted to <a href="http://learningatscale.acm.org/las2016/">Learning at Scale 2016</a>: <a href="http://juhokim.com/publications.html#C19">our paper, "AXIS: Generating Explanations at Scale with Learnersourcing and Machine Learning"</a>'
+}
+  - { date: "Dec 10 2015", 
+    content: '      <a href="http://learningatscale.acm.org/las2016/">Learning at Scale 2016</a> PC Meeting in Mountain View, CA.'
+}
+  - { date: "Dec 1 2015", 
+    content: '      Talk on learnersourcing at <a href="http://cmu-crowd.blogspot.com/2015/11/title-learnersourcing-improving.html">CMU Crowdsourcing Seminar</a>'
+}
+  - { date: "Nov 9-11 2015", 
+    content: '      <a href="http://uist.acm.org/uist2015/about">UIST 2015</a>, posters co-chair'
+}
+  - { date: "Oct 27 2015", 
+    content: '      Talk on learnersourcing at <a href="http://schedule.bid-seminar.com/">Berkeley Institute of Design</a>'
+}
+  - { date: "Oct 1 2015", 
+    content: '      <a href="http://juhokim.com/publications.html#C18">BudgetMap: Engaging Taxpayers in the Issue-Driven Classification of a Government Budget</a> is accepted to <a href="http://cscw.acm.org/2016/index.php">CSCW 2016</a>.'
+}
+  - { date: "Sep 11-12 2015", 
+    content: '      <a href="http://brown.columbia.edu/">Brown Institute</a> All-Hands Meeting at Columbia University'
+}
+  - { date: "Sep 2 2015", 
+    content: '      Talk on learnersourcing at <a href="https://www.udemy.com/">Udemy</a>'
+}
+  - { date: "Aug 18 2015", 
+    content: '      First day as visiting assistant professor at <a href="http://www.stanford.edu/">Stanford</a>'
+}
+  - { date: "Aug 7 2015", 
+    content: '      Last day at MIT. Final thesis: <a href="http://juhokim.com/files/JuhoKim-Thesis.pdf">Learnersourcing: Improving Learning with Collective Learner Activity</a>'
+}
+  - { date: "Jul 30 2015", 
+    content: '      <a href="https://calendar.csail.mit.edu/events/156022">Thesis defense</a> (<a href="http://www.slideshare.net/mcpanic/20150730-thesisdefenseweb">slides</a>)'
+}
+  - { date: "Jul 25 2015", 
+    content: '      Serving on the Program Committee of <a href="http://www2016.ca/">WWW 2016</a> and <a href="http://learningatscale.acm.org/las2016/">Learning at Scale 2016</a>'
+}
+  - { date: "Jun 9 2015", 
+    content: '      Presenting a poster on learnersourcing at <a href="http://cap.csail.mit.edu/">CAP Annual Meeting</a> in CSAIL.'
+}
+  - { date: "Apr 24 2015", 
+    content: '      Presenting at <a href="http://uilab.kaist.ac.kr/chi_post_workshop/">Post-CHI Workshop @ KAIST</a>'
+}
+  - { date: "Apr 20 2015", 
+    content: '      <a href="http://chi2015.acm.org/">CHI 2015</a> in Seoul, Korea:<br>
+                      1) [paper] <a href="http://juhokim.com/publications.html#C17">RIMES: Embedding Interactive Multimedia Exercises in Lecture Videos</a>,<br>
+                      2) [paper] <a href="http://juhokim.com/publications.html#C16">Mudslide: A Spatially Anchored Census of Student Confusion for Online Lecture Videos</a>,<br>
+                      3) [paper] <a href="http://juhokim.com/publications.html#C15">Factful: Engaging Taxpayers in the Public Discussion of a Government Budget</a>, <br>
+                      4) [paper] <a href="http://juhokim.com/publications.html#C14">Apparition: Crowdsourced User Interfaces That Come To Life As You Sketch Them</a>, <br>
+                      5) [<a href="http://gamification-research.org/chi2015/">Workshop</a>] <a href="http://juhokim.com/publications.html#P20">BudgetWiser: Gamification Design Opportunities in the Government Budget Domain</a>, <br>
+                      6) [WIP] <a href="http://juhokim.com/publications.html#P20">BudgetMap: Issue-Driven Navigation for a Government Budget</a>.'
+}
+  - { date: "Mar 15 2015", 
+    content: '      <a href="http://cscw.acm.org/2015/">CSCW 2015</a>: <a href="http://juhokim.com/publications.html#C13">Crowdy paper</a>. Organizing &amp; <a href="http://juhokim.com/files/talks/CSCW2015-Workshop.pdf">presenting</a> at the <a href="http://cscw.acm.org/2015/program/accepted_workshops.php#W10">Connecting Collaborative &amp; Crowd Work with Online Education Workshop</a>.'
+}
+  - { date: "Mar 1 2015", 
+    content: '      <a href="publications.html">Three honorable mention awards</a> at <a href="http://chi2015.acm.org/program/best-of-chi/">CHI 2015</a>.'
+}
+  - { date: "Feb 16 2015", 
+    content: '      <a href="http://crowdy.juhokim.com/">Crowdy</a> and <a href="http://juhokim.com/toolscape/">ToolScape</a> on the media: <a href="http://www.fastcodesign.com/3041579/mit-students-redesign-the-how-to-video-in-4-easy-steps">Fast Company Design</a>, <a href="http://bostinno.streetwise.co/2015/02/16/mit-study-shows-how-educational-videos-could-be-better/">BostInno</a>, <a href="http://newsoffice.mit.edu/2015/better-how-to-videos-0211">MIT News Office</a>, <a href="http://www.cbc.ca/radio/spark/276-william-gibson-banner-ads-as-art-crowdsou…-to-videos-and-more-1.2965079/crowdsourcing-better-how-to-videos-1.2965157">CBC Radio</a>.'
+}
+  - { date: "Jan 26 2015", 
+    content: '      Three <a href="http://learningatscale.acm.org/las2015/">Learning at Scale 2015</a> posters were accepted.'
+}
+  - { date: "Jan 7 2015", 
+    content: '      Teaching MIT''s <a href="https://stellar.mit.edu/S/course/6/sp15/6.813/">User Interface Design course</a> in the spring semester with 200 students.'
+}
+  - { date: "Jan 7 2015", 
+    content: '      Program Committee for <a href="http://chi2015.acm.org/authors/works-in-progress/">CHI 2015 Works-in-Progress</a>.'
+}
+  - { date: "Dec 1 2014", 
+    content: '      Program Committee for <a href="http://learningatscale.acm.org/las2015/">Learning at Scale 2015</a>. Attended the PC meeting in Mountain View, CA.'
+}
+  - { date: "Oct 31-Nov 4 2014", 
+    content: '      <a href="http://www.humancomputation.com/2014/">HCOMP 2014</a>: co-organized <a href="http://crowdresearch.org/crowdcamp/">CrowdCamp</a>, attended <a href="http://www.worklearn.org/">the WorkLearn workshop</a>, and Anant presented our <a href="http://juhokim.com/publications.html#C10">attendee-sourcing paper</a>.'
+}
+  - { date: "Oct 27 2014", 
+    content: '      Gave a talk in <a href="http://www.bu.edu/cs/ivc/">the Image and Video Computing group</a> seminars at Boston University.'
+}
+  - { date: "Oct 23 2014", 
+    content: '      I''m co-organizing a workshop "<a href="http://cscw.acm.org/2015/program/accepted_workshops.php#W10">Connecting Collaborative &amp; Crowd Work with Online Education</a>" at <a href="http://cscw.acm.org/2015/">CSCW 2015</a>.'
+}
+  - { date: "Oct 13 2014", 
+    content: '      I''ll serve as the <a href="http://uist.acm.org/people">Posters Co-Chair</a> for <a href="http://uist.acm.org/about">UIST 2015</a>.'
+}
+  - { date: "Oct 6-8 2014", 
+    content: '      Presented two papers at <a href="http://www.acm.org/uist/uist2014/">UIST 2014</a> in Honolulu, HI: <a href="publications.html#C12">LectureScape &amp; data-driven lecture video interaction</a> and <a href="publications.html#C11">content-aware kinetic scrolling</a>'
+}
+  - { date: "Sep 26 2014", 
+    content: '      Gave a talk about <a href="http://juhokim.com/lecturescape/">LectureScape</a> at the <a href="http://harvardx.harvard.edu/">HarvardX</a> research colloquium.'
+}
+  - { date: "Aug 27 2014", 
+    content: '      Our "<a href="publications.html#C13">Learnersourcing Subgoal Labels for How-to Videos</a>" paper is accepted to <a href="http://cscw.acm.org/2015/index.php">CSCW 2015</a>. Check out <a href="http://crowdy.juhokim.com/">Crowdy</a> live!'
+}
+  - { date: "Aug 11 2014", 
+    content: '      <a href="http://juhokim.com/lecturescape/">LectureScape</a> on the media: <a href="http://www.forbes.com/sites/peterhigh/2014/08/11/mit-team-turns-6-9-million-clicks-into-insights-to-improve-online-education/">Forbes</a>, <a href="http://www.ecampusnews.com/top-news/mooc-learning-767/">eCampusNews</a>, <a href="http://bostinno.streetwise.co/2014/07/31/how-do-online-learners-watch-videos-lecturescape-mits-youtube-for-moocs-516442/">BostInno</a>, <a href="http://newsoffice.mit.edu/2014/what-69-million-clicks-tell-us-about-how-fix-online-education">MIT News Office</a>'
+}
+  - { date: "Jun 24 2014", 
+    content: '      Two <a href="http://www.acm.org/uist/uist2014/">UIST 2014</a> papers on <a href="publications.html#C12">data-driven lecture video interface</a> and <a href="publications.html#C11">content-aware kinetic scrolling</a> got accepted.'
+}
+  - { date: "Jun 16 2014", 
+    content: '      Our <a href="http://www.humancomputation.com/2014/">HCOMP 2014</a> paper on <a href="publications.html#C10">attendeesourcing with Confer</a> got accepted.'
+}
+  - { date: "May 23 2014", 
+    content: '      Interested in learning web programming? Try <a href="http://crowdy.juhokim.com/">Crowdy</a>, our collaborative video learning interface.'
+}
+  - { date: "May-Aug 2014", 
+    content: '      Summer internship at <a href="http://research.microsoft.com/en-us/">Microsoft Research</a>. Will help teachers create more interactive lessons using Powerpoint with <a href="https://mix.office.com/">Office Mix</a>.'
+}
+  - { date: "May 21 2014", 
+    content: '      Thesis proposed.'
+}
+  - { date: "Apr 30 2014", 
+    content: '      Sarah Weir won the 2nd place in the Student Research Competition at <a href="http://chi2014.org/">CHI 2014</a>, with our project on <a href="files/CHI2014-SRC-Weir-Subgoal.pdf">learnersourcing subgoal labels for how-to videos</a>.'
+}
+  - { date: "Apr 27-May 1 2014", 
+    content: '      Attended <a href="http://chi2014.org/">CHI 2014</a> in Toronto, Canada. Presented our paper <a href="publications.html#C9">"Crowdsourcing Step-by-Step Information Extraction to Enhance Existing How-to Videos"</a> and a workshop paper <a href="publications.html#P13">"Leveraging Video Interaction Data and Content Analysis to Improve Video Learning"</a> in <a href="http://www.chionlinelearning.com/">the workshop on learning innovation at scale</a>.'
+}
+  - { date: "Mar 4-5 2014", 
+    content: '      Presented <a href="publications.html#C7">"Understanding In-Video Dropouts and Interaction Peaks in Online Lecture Videos"</a> at <a href="http://learningatscale.acm.org/">Learning at Scale 2014</a> in Atlanta, GA.'
+}
+  - { date: "Feb 26 2014", 
+    content: '      <a href="toolscape">ToolScape website and video</a> are live.'
+}
+  - { date: "Feb 10 2014", 
+    content: '      Two honorable mention awards for <a href="publications.html">CHI 2014 papers</a>.'
+}
+  - { date: "Jan 29 2014", 
+    content: '      <a href="publications.html#P13">A paper</a> accepted to <a href="http://www.chionlinelearning.com/">CHI 2014 Learning Innovation at Scale workshop</a>.'
+}
+  - { date: "Jan 13-15 2014", 
+    content: '      <a href="publications.html#P12">Two posters</a> presented at Quanta-MIT workshop in Taipei, Taiwan.'
+}
+  - { date: "Dec 2013", 
+    content: '      Gave six talks in Korea about learnersourcing (SNU, KAIST, Samsung, etc.).'
+}
+  - { date: "Dec 20 2013", 
+    content: '      <a href="publications.html#C7">Two papers</a> accepted to <a href="http://learningatscale.acm.org/">Learning at Scale 2014</a>.'
+}
+  - { date: "Dec 8 2013", 
+    content: '      <a href="publications.html#C9">Two papers</a> accepted to <a href="http://chi2014.acm.org/">CHI 2014</a>.'
+}
+  - { date: "Nov 7 2013", 
+    content: '      <a href="publications.html#C5">Our paper on community clustering</a> won a notable paper award at <a href="http://www.humancomputation.com/2013/#program">HCOMP 2013</a>, in Palm Springs, CA.'
+}
+  - { date: "Nov 6 and 9 2013", 
+    content: '      I''m co-organizing <a href="http://crowdresearch.org/crowdcamp/">CrowdCamp @ HCOMP 2013</a>, in Palm Springs, CA.'
+}
+  - { date: "Oct 8 - Oct 11 2013", 
+    content: '      <a href="http://www.acm.org/uist/uist2013/">UIST 2013</a> in St. Andrews, UK, presenting <a href="http://projectcobi.com/">Cobi: A Community-Informed Conference Scheduling Tool</a>.'
+}
+  - { date: "Aug 23 2013", 
+    content: '      Mentored three student groups in <a href="http://web.mit.edu/6.mitx/www/">6.mitx</a>, working on <a href="http://web.mit.edu/6.mitx/www/#edx-student-activity">edX student activity visualization</a>, <a href="http://web.mit.edu/6.mitx/www/#edx-grade-visualization">edX grade visualization</a>, and <a href="http://web.mit.edu/6.mitx/www/#videoAnnotation">video annotation tool</a>. <a href="http://www.eecs.mit.edu/news-events/media/6mitx-summer-urops-are-cool">(MIT News article)</a>'
+}
+  - { date: "Jul 1 2013", 
+    content: '      Our paper <a href="publications.html">Cobi: A Community-Informed Conference Scheduling Tool</a> accepted to <a href="http://www.acm.org/uist/uist2013/">UIST 2013</a>.'
+}
+  - { date: "Jun 28 - Jul 1 2013", 
+    content: '      Samsung Fellowship academic camp in Yosemite, CA. Presenting a poster.'
+}
+  - { date: "Jun 27 2013", 
+    content: '      <a href="http://www.pensivepuffin.com/socs2013/symposium/index.html">SoCS Doctoral Symposium</a>, Seattle, WA. | <a href="files/SoCS2013-Poster.pdf">Poster (PDF)</a>.'
+}
+  - { date: "May 28 - Aug 30 2013", 
+    content: '      Summer internship in the learning sciences team at <a href="http://edx.org/">edX</a>.'
+}
+  - { date: "May 2 2013", 
+    content: '      2nd place in <a href="http://chi2013.acm.org/authors/call-for-participation/student-competitions/student-research-competition/">Student Research Competition</a> at <a href="http://chi2013.acm.org/">CHI 2013</a> | <a href="files/CHI2013-SRC-ToolScape-Slides.pdf">Slides (PDF)</a>.'
+}
+  - { date: "Apr 27 - May 2 2013", 
+    content: '      <a href="http://chi2013.acm.org/">CHI 2013</a> in Paris, France. Presenting 2 works-in-progress, 1 student research competition, 1 interactivity.'
+}
+  - { date: "Apr 23 2013", 
+    content: '      Introducing <a href="http://mychi.csail.mit.edu">myCHI</a>, a webapp for CHI attendees with paper bookmarking, social recommendations, and personalized schedule.'
+}
+  - { date: "Apr 10 2013", 
+    content: '      ToolScape talk in the graphics group in CSAIL.'
+}
+  - { date: "Mar 7 2013", 
+    content: '      ToolScape talk at <a href="http://edx.org/">edX</a>.'
+}
+  - { date: "Feb 23 - Feb 27 2013", 
+    content: '      <a href="http://cscw.acm.org/2013/">CSCW 2013</a> in San Antonio, Texas. Particpated in <a href="http://crowdresearch.org/crowdcamp/">CrowdCamp</a>.'
+}
